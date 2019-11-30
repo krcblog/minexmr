@@ -1,0 +1,18 @@
+{
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "minecraftfuns@outlook.com",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
